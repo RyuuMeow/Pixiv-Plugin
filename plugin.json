@@ -1,0 +1,7 @@
+{
+  "plugin_id": "pixiv",
+  "display_name": "Pixiv",
+  "version": "0.1.0",
+  "entrypoint": "plugin.py:Plugin",
+  "manifest": "site.json"
+}
