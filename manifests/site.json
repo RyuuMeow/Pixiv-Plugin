@@ -16,7 +16,7 @@
     },
     {
       "name": "user_illustrations",
-      "pattern": "^https://(?:www\\.)?pixiv\\.net/users/(?P<user_id>[0-9]+)(?:/(?:illustrations|manga))?/?$",
+      "pattern": "^https://(?:www\\.)?pixiv\\.net/users/(?P<user_id>[0-9]+)(?:/(?:illustrations|manga|artworks))?/?(?:\\?.*)?$",
       "input_kind": "batch",
       "operation": "user_illustrations"
     }
