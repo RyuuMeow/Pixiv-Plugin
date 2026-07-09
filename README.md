@@ -1,6 +1,6 @@
 # Pixiv Plugin
 
-這是一個為 CLI-Downloader 提供 Pixiv 下載支援的插件。
+這是一個為 [CLI-Downloader](https://github.com/RyuuMeow/CLI-Downloader) 提供 Pixiv 下載支援的插件。
 
 ## 支援的 URL 格式
 
